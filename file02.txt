@@ -1,1 +1,0 @@
-conteúdo do file02.txt
