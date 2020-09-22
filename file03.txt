@@ -1,1 +1,2 @@
-o arquvio file04.txt não subiu pois estava vazio :(
+1 - o arquvio file04.txt não subiu pois estava vazio :(
+2 - resolvendo confiltos aqui
