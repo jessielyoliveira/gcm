@@ -1,0 +1,1 @@
+criando o file04.txt direto no github para testar o git pull, já que ele não subiu anteriormente
