@@ -2,3 +2,4 @@ criando novamente o file02.txt
 Teste
 Teste
 Teste
+Teste
